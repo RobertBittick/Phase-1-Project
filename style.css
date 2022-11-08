@@ -10,6 +10,7 @@
 }
 
 #head-image {
+    padding: 10px;
     float: left;
 }
 
@@ -20,6 +21,7 @@
 #head-info {
     display: block;
     margin-top: 50px;
+    
 }
 
 #select,
