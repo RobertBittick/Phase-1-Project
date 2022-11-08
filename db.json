@@ -1,0 +1,52 @@
+{
+    "Events": [
+      {
+        "id": 1,
+        "name": "The Kingdom of Rome",
+        "image": "kingdom-of-rome.jpg",
+        "info": "put info here"
+      },
+      {
+        "id": 2,
+        "name": "The Roman Republic",
+        "image": "roman-republic.png",
+        "info": "put info here"
+      },
+      {
+        "id": 3,
+        "name": "The Roman Empire",
+        "image": "",
+        "info": "put info here"
+      },
+      {
+        "id": 4,
+        "name": "Crisis of the 3rd Century",
+        "image": "",
+        "info": "put info here"
+      },
+      {
+        "id": 5,
+        "name": "East and West",
+        "image": "",
+        "info": "put info here"
+      },
+      {
+        "id": 6,
+        "name": "The Fall of the West",
+        "image": "",
+        "info": "put info here"
+      },
+      {
+        "id": 7,
+        "name": "Reconquest of the West",
+        "image": "",
+        "info": "put info here"
+      },
+      {
+        "id": 8,
+        "name": "The death of the Empire",
+        "image": "",
+        "info": "put info here"
+      }
+    ]
+  }
