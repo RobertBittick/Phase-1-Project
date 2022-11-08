@@ -1,0 +1,31 @@
+.head {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 8px 8px;
+    background-color: rgba(255, 248, 169, 0.664);
+    border-radius: 12px;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 8px 8px;
+    background-color: rgba(255, 248, 169, 0.664);
+    box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.575);
+    transition: 0.3s;
+    border-radius: 12px;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgb(255, 255, 255);
+}
+
+.container {
+    padding: 2px 16px
+}
