@@ -1,5 +1,5 @@
 .head {
-    display: flex;
+    display: inline-block;
     justify-content: center;
     align-items: center;
     margin-left: 5%;
@@ -8,6 +8,7 @@
     background-color: rgba(255, 248, 169, 0.664);
     border-radius: 12px;
 }
+
 
 .card {
     display: flex;
