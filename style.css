@@ -9,6 +9,25 @@
     border-radius: 12px;
 }
 
+#head-image {
+    float: left;
+}
+
+#head-title {
+    display: block;
+}
+
+#head-info {
+    display: block;
+    margin-top: 50px;
+}
+
+#select,
+#event-dropdown {
+    display: inline;
+    margin-top: 75px;
+}
+
 .card {
     display: flex;
     justify-content: center;
