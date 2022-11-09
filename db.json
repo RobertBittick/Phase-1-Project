@@ -1,9 +1,9 @@
 {
-    "Events": [
+    "events": [
       {
         "id": 1,
         "name": "The Kingdom of Rome",
-        "image": "kingdom-of-rome.jpg",
+        "image": "images/kingdom-of-rome.jpg",
         "info": "put info here"
       },
       {
