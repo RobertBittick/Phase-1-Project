@@ -11,26 +11,29 @@ select.addEventListener('change', () => {
     .then(response => response.json())
     .then(function(data) {
             data.map(element =>{
-                console.log(element)
+                console.log(element.id)
                 console.log(selectedVal)
                 
-                if(element.id === selectedVal) {
+                switch(element.id) {
+                    case 1:
+                        let img = document.createElement('img')
+                        img.setAttribute('src', element.image)
 
-                    let img = document.createElement('img')
-                    img.setAttribute('src', element.image)
+                        let h2 = document.createElement('h2')
+                        h2.innerText = element.name
 
-                    let h2 = document.createElement('h2')
-                    h2.innerText = element.name
+                        let p = document.createElement('p')
+                        p.innerText = element.info
 
-                    let p = document.createElement('p')
-                    p.innerText = element.info
+                        let card = document.createElement('div')
+                        card.setAttribute('class','card')
+                        card.append(img,h2,p)
 
-                    let card = document.createElement('div')
-                    card.setAttribute('class','card')
-                    card.append(img,h2,p)
-
-                    container.append(card)
-                }
+                        container.append(card) 
+                        break
+                    }
+                })
+                
             })   
             
         
@@ -39,4 +42,3 @@ select.addEventListener('change', () => {
    
 }) //end event listener
 
-})
