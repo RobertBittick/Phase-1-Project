@@ -2,7 +2,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
 const select = document.getElementById('event-dropdown')
-const dropDown = select.options[select.selectedIndex]
 
 const container = document.getElementById('event-lists')
 let mapObjects
@@ -16,13 +15,20 @@ let mapObjects
     }
 
     getMaps()
-    
+
     select.addEventListener('change', () => {
 
         const selectedId = parseInt(select.value)
-    
-        let match = mapObjects.find((mapObject) => mapObject === selectedId)
+
+        mapObjects.find((mapObject) => {
+            console.log(mapObject)
+            if(mapObject.id === selectedId){
+                buildCard(mapObject)
+            }
         
+        })
+        
+
             //find map object with that ID
             //add card to DOM for that map object
         //debugger  
