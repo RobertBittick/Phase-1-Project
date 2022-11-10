@@ -2,24 +2,31 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
 const select = document.getElementById('event-dropdown')
-const selectedVal = select.options[select.selectedIndex].text
+const dropDown = select.options[select.selectedIndex]
 
 const container = document.getElementById('event-lists')
+let mapObjects
 
+    function getMaps(){
+        fetch('http://localhost:3000/maps')
+        .then(response => response.json())
+        .then(data => {
+            mapObjects = data
+        })
+    }
 
-select.addEventListener('change', () => {
-    fetch('http://localhost:3000/Events')
-    .then(response => response.json())
-    .then(data => {
-            data.map(element =>{
-                console.log(element.id)
-                console.log(selectedVal)
-                buildCard(element)
-            })
-        }) 
-            
+    getMaps()
+    
+    select.addEventListener('change', () => {
+
+        const selectedId = parseInt(select.value)
+    
+        let match = mapObjects.find((mapObject) => mapObject === selectedId)
         
-    }) // end .then
+            //find map object with that ID
+            //add card to DOM for that map object
+        //debugger  
+     }) // end event listener
 
     function buildCard(element){
         let img = document.createElement('img')
