@@ -4,6 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
 const select = document.getElementById('event-dropdown')
 
 const container = document.getElementById('event-lists')
+
 let mapObjects
 
     function getMaps(){
@@ -25,14 +26,8 @@ let mapObjects
             if(mapObject.id === selectedId){
                 buildCard(mapObject)
             }
-        
         })
-        
-
-            //find map object with that ID
-            //add card to DOM for that map object
-        //debugger  
-     }) // end event listener
+     }) 
 
     function buildCard(element){
         let img = document.createElement('img')
@@ -51,5 +46,5 @@ let mapObjects
         container.append(card) 
     }           
    
-}) //end event listener
+})
 
