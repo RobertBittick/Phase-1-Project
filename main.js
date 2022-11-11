@@ -22,16 +22,17 @@ let mapObjects
         const selectedId = parseInt(select.value)
 
         mapObjects.find((mapObject) => {
-            console.log(mapObject)
             if(mapObject.id === selectedId){
                 buildCard(mapObject)
             }
         })
-     }) 
+    }) 
 
     function buildCard(element){
         let img = document.createElement('img')
-        img.setAttribute('src', element.image)
+        img.setAttribute('src',element.image)
+        img.className = 'map-avatar'
+
 
         let h2 = document.createElement('h2')
         h2.innerText = element.name
@@ -41,6 +42,8 @@ let mapObjects
 
         let card = document.createElement('div')
         card.setAttribute('class','card')
+        card.height = 300
+        card.width = 600
         card.append(img,h2,p)
 
         container.append(card) 

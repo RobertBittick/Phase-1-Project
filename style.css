@@ -21,7 +21,6 @@
 #head-info {
     display: block;
     margin-top: 50px;
-    
 }
 
 #select,
@@ -31,8 +30,7 @@
 }
 
 .card {
-
-    display: flex;
+    display: inline-block;
     justify-content: center;
     align-items: center;
     margin-left: 10%;
@@ -44,10 +42,33 @@
     border-radius: 12px;
 }
 
+#card-image {
+    padding: 10px;
+    float: left;
+}
+
+#card-title {
+    display: block;
+}
+
+#card-info {
+    display: block;
+    margin-top: 50px;
+}
+
 .card:hover {
     box-shadow: 0 8px 16px 0 rgb(255, 255, 255);
 }
 
 .container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
     padding: 2px 16px
 }
+
+ .map-avatar {
+    justify-self: center;
+    height: auto;
+    width: auto;
+ }
