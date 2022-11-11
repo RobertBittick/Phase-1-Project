@@ -15,13 +15,13 @@
       {
         "id": 3,
         "name": "The Roman Empire",
-        "image": "",
+        "image": "images/roman-empire-history-map.jpg",
         "info": "put info here"
       },
       {
         "id": 4,
         "name": "Crisis of the 3rd Century",
-        "image": "",
+        "image": "images/crisis-3rd.jpg",
         "info": "put info here"
       },
       {

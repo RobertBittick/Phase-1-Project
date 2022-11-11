@@ -42,12 +42,12 @@
     border-radius: 12px;
 }
 
-#card-image {
+.card img {
     padding: 10px;
     float: left;
 }
 
-#card-title {
+.card title {
     display: block;
 }
 
@@ -67,8 +67,7 @@
     padding: 2px 16px
 }
 
- .map-avatar {
+.map-avatar {
     justify-self: center;
     height: auto;
-    width: auto;
  }
