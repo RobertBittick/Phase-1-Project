@@ -1,52 +1,60 @@
 {
-    "maps": [
-      {
-        "id": 1,
-        "name": "The Kingdom of Rome",
-        "image": "images/kingdom-of-rome.jpg",
-        "info": "The mythical founding of Rome states that the city was founded by one of two brothers, Romulus, who along with his brother Remus were nursed by a she-wolf after washing up on the banks of the the river Tiber, where the city would be founded. Roman mythology claims the Romans were descendants of the Aeneas people who fled to Italy after the fall of Troy. In reality Rome was likely founded due to its strategic position as a river crossing on the Tiber, connecting the Etruscan city states in the north to the Latin tribes and the wealthy Greek city states to the south. The Roman city state was ruled by kings from 753 BC to 509 BC. The Kingdom of Rome was ruled by a single monarch, advised by a senate of 300 of the most noble and wealthiest men of the city. The senate held little power and served mostly as an advisory council to the king. The traditional story states that the Roman monarchy was overthrown after a series of tyranical kings, resulting in the establishment of the Republic. The Romans developed a fierce hatred for kings and absolute monarchs of any kind."
-      },
-      {
-        "id": 2,
-        "name": "The Roman Republic",
-        "image": "images/roman-republic.png",
-        "info": "The Republican, or classical Roman period began at the overthrowing of the last king of Rome. During this period lasting from 509 BC to 27 BC, Rome would come to dominate it's neighbors and then the entire Mediterranean. Roman society was divided roughly between the Patrician and Plebeian classes, the former being the elite ruling class and the latter the poorer class with little to no access to positions of political or religious importance. The Plebeian class would often walk out and leave the city when they wanted their rights increased, leaving the Patricians to fend for themselves. Roman society was all about prestige and achievement, this could be seen in Rome's patron-client system. This system was essentially a display of wealth and influence. A Patron, usually a Patrician, would gather clients, mostly Plebeians but sometimes other less wealthy Patricians. The Patron would give their clients money and favors, such as supporting them in a religious or political campaign. This relationship was seen as a sacred tradition in Roman society and the more clients a patron had, the more influential they were. During the Republican period, Rome came to be first a major regional power, dominating their neighboring Latin and Etruscan cities and the Sabine hill tribes to the east. Rome came to become the largest regional power and soon controlled the entire Italian peninsula. This brought them into conflict with the wealthy and powerful Greek city states in the south. Although the Romans admired the Greeks and borrowed much from them, including cultural, religious, and architectural aspects, the Romans militant nature brought them to war with the Greeks. The Greeks were aided by the Greek king of Epirus, Pyrrhus. The Romans suffered many losses against the Greek king, however every loss was a costly one for Pyrrhus and he was unable to continue his war with the Romans. After a costly victory over the Romans at the battle of Asculum, Pyrrhus famously said 'If we are victorious in one more battle with the Romans, we shall be utterly ruined'. Rome eventually subjugated the Greek city states and won control over all of Italy. This period also marked three wars with Carthage, located in North Africa, which came to be known as the Punic Wars. The first of these wars saw a Roman victory, and the annexation of Sicily. The Second Punic war nearly destroyed the Romans with the famous Carthaginian general Hannibal Barca leading his army and his war elephants up through the Iberian peninsula, through the Italian Alps and launching a surprise attack on the Romans from the north. The Romans then conquered Greece, and annexed it as a Roman provence. The third and final Punic war resulted in the complete destruction of Carthage and Roman holdings in Iberia and North Africa. Rome became the sole ruler of the Mediterranean. "
-      },
-      {
-        "id": 3,
-        "name": "The Roman Empire",
-        "image": "images/roman-empire-history-map.jpg",
-        "info": "Towards the end of the Republican period, one of the most important figures of Roman history would emerge, Gaius Julius Caesar. Caesar would lead Rome into a war with the tribes of Gaul, in modern day France. Caesar would expand the Republic to the borders of the Atlantic and the English channel. At the end of his campaign, Caesar was summoned back to Rome by the senate, fearing Caesar's new wealth and power, the Senate wanted to remove him from his position. Caesar decided to march his Legions into Rome and install himself as dictator for life. Caesar used his military power to win a civil war, which saw a personal alliance built through romance with Cleopatra of Egypt, at the end of this war Caesar implanted himself at the top of the Roman political world where he remained for less than a year before being stabbed by senators and friends who feared for the fate of the Republic. This would lead to another civil war, in which the Republic would be destroyed by Caesars nephew, Octavian, and the Roman Empire would be born with Octavian, later known as Caesar Augustus, as it's first Emperor. Augustus would turn the Roman world upside down and solidify Rome into an Empire, killing the dreams of a Republican Rome forever. Rome would then enter a period that would be called Pax Romana, or Roman Peace. This would be the longest period of relative peace the world had seen. Rome would be ruled by a number of dynasties, the most important being the Julio-Claudian, Flavian, Nerva-Antonine, and the Severan, alongside smaller dynasties like the Constantinian, Valentinian and Theodosian. During this period, Rome would solidify it's territorial holdings to encase the entire Mediterranean sea, turning it into a 'Roman lake'. Outside the borders of the Empire, life was much harder and peace was never a guarantee. Disaster was looming on the horizon and the Empire would be put to the test."
-      },
-      {
-        "id": 4,
-        "name": "Crisis of the 3rd Century",
-        "image": "images/crisis-3rd.jpg",
-        "info": "The crisis of the 3rd century would come to define a time in Roman history that perplexes historians to no end. By all accounts the Roman Empire should have crumbled and collapsed, but somehow it didn't. Historians still argue over the myriad of reasons that may be responsible for the survival of the Empire during this peroid, one thing is certain however, the Empire survived. The crisis of the 3rd century spanned for 49 years and the Empire saw the combined pressures of barbarian invasions and migrations into the Roman territory, civil wars, peasant rebellions and political instability, with multiple usurpers competing for power. By 268 the Roman Empire had split into 3 Empires, the Gallic Empire which consisted of the Roman provinces of Gaul and Britannia, the Palmyrene Empire which was made up of Syria and Egypt, and the remainder of the Roman Empire which controlled Italy, North Africa, Hispania (Spain), and Greece. During this period, Roman soldiers and generals alike had gotten into the practice of crowning their own Emperors and claiming the Imperial throne by force or bribery. There were at least 30 Emperors during this 49 year period, many of them ruling for a few months before being deposed and often murdered. The Antonine Plague, widely believed today to have been smallpox, swept across the Empire, the estimated death toll is between 5-10 million dead. Finally towards the end of the century an Emperor named Aurelian rose to power, he was able to reunify the Empire into one political body and fend off the waves of attacking Germanic tribes bringing stability back to the Empire and saving it from being destroyed. Aurelian was murdered on his way to a campaign in Persia, a long time rival to Rome, by one of his administrators because he lied to the Emperor and feared Aurelian's punishment. A short while came Emperor Diocletian who changed the Empire forever by establishing a system called the Tetrarchy. The Tetrarchy split the Empire into four administrative bodies under the same political body. Diocletian built a system where each half of the Empire would have two Emperors, a senior Emperor and a junior Emperor, with each of the four Emperors controlling a region. "
-      },
-      {
-        "id": 5,
-        "name": "East and West",
-        "image": "images/roman-east-west.png",
-        "info": ""
-      },
-      {
-        "id": 6,
-        "name": "The Fall of the West",
-        "image": "",
-        "info": "put info here"
-      },
-      {
-        "id": 7,
-        "name": "Reconquest of the West",
-        "image": "",
-        "info": "put info here"
-      },
-      {
-        "id": 8,
-        "name": "The death of the Empire",
-        "image": "",
-        "info": "put info here"
-      }
-    ]
-  }
+  "maps": [
+    {
+      "id": 1,
+      "name": "The Kingdom of Rome",
+      "image": "images/kingdom-of-rome.jpg",
+      "info": "The mythical founding of Rome states that the city was founded by one of two brothers, Romulus, who along with his brother Remus were nursed by a she-wolf after washing up on the banks of the the river Tiber, where the city would be founded. Roman mythology claims the Romans were descendants of the Aeneas people who fled to Italy after the fall of Troy. In reality Rome was likely founded due to its strategic position as a river crossing on the Tiber, connecting the Etruscan city states in the north to the Latin tribes and the wealthy Greek city states to the south. The Roman city state was ruled by kings from 753 BC to 509 BC. The Kingdom of Rome was ruled by a single monarch, advised by a senate of 300 of the most noble and wealthiest men of the city. The senate held little power and served mostly as an advisory council to the king. The traditional story states that the Roman monarchy was overthrown after a series of tyranical kings, resulting in the establishment of the Republic. The Romans developed a fierce hatred for kings and absolute monarchs of any kind.",
+      "likes": 0
+    },
+    {
+      "id": 2,
+      "name": "The Roman Republic",
+      "image": "images/roman-republic.png",
+      "info": "The Republican, or classical Roman period began at the overthrowing of the last king of Rome. During this period lasting from 509 BC to 27 BC, Rome would come to dominate it's neighbors and then the entire Mediterranean. Roman society was divided roughly between the Patrician and Plebeian classes, the former being the elite ruling class and the latter the poorer class with little to no access to positions of political or religious importance. The Plebeian class would often walk out and leave the city when they wanted their rights increased, leaving the Patricians to fend for themselves. Roman society was all about prestige and achievement, this could be seen in Rome's patron-client system. This system was essentially a display of wealth and influence. A Patron, usually a Patrician, would gather clients, mostly Plebeians but sometimes other less wealthy Patricians. The Patron would give their clients money and favors, such as supporting them in a religious or political campaign. This relationship was seen as a sacred tradition in Roman society and the more clients a patron had, the more influential they were. During the Republican period, Rome came to be first a major regional power, dominating their neighboring Latin and Etruscan cities and the Sabine hill tribes to the east. Rome came to become the largest regional power and soon controlled the entire Italian peninsula. This brought them into conflict with the wealthy and powerful Greek city states in the south. Although the Romans admired the Greeks and borrowed much from them, including cultural, religious, and architectural aspects, the Romans militant nature brought them to war with the Greeks. The Greeks were aided by the Greek king of Epirus, Pyrrhus. The Romans suffered many losses against the Greek king, however every loss was a costly one for Pyrrhus and he was unable to continue his war with the Romans. After a costly victory over the Romans at the battle of Asculum, Pyrrhus famously said 'If we are victorious in one more battle with the Romans, we shall be utterly ruined'. Rome eventually subjugated the Greek city states and won control over all of Italy. This period also marked three wars with Carthage, located in North Africa, which came to be known as the Punic Wars. The first of these wars saw a Roman victory, and the annexation of Sicily. The Second Punic war nearly destroyed the Romans with the famous Carthaginian general Hannibal Barca leading his army and his war elephants up through the Iberian peninsula, through the Italian Alps and launching a surprise attack on the Romans from the north. The Romans then conquered Greece, and annexed it as a Roman provence. The third and final Punic war resulted in the complete destruction of Carthage and Roman holdings in Iberia and North Africa. Rome became the sole ruler of the Mediterranean. ",
+      "likes": 0
+    },
+    {
+      "id": 3,
+      "name": "The Roman Empire",
+      "image": "images/roman-empire-history-map.jpg",
+      "info": "Towards the end of the Republican period, one of the most important figures of Roman history would emerge, Gaius Julius Caesar. Caesar would lead Rome into a war with the tribes of Gaul, in modern day France. Caesar would expand the Republic to the borders of the Atlantic and the English channel. At the end of his campaign, Caesar was summoned back to Rome by the senate, fearing Caesar's new wealth and power, the Senate wanted to remove him from his position. Caesar decided to march his Legions into Rome and install himself as dictator for life. Caesar used his military power to win a civil war, which saw a personal alliance built through romance with Cleopatra of Egypt, at the end of this war Caesar implanted himself at the top of the Roman political world where he remained for less than a year before being stabbed by senators and friends who feared for the fate of the Republic. This would lead to another civil war, in which the Republic would be destroyed by Caesars nephew, Octavian, and the Roman Empire would be born with Octavian, later known as Caesar Augustus, as it's first Emperor. Augustus would turn the Roman world upside down and solidify Rome into an Empire, killing the dreams of a Republican Rome forever. Rome would then enter a period that would be called Pax Romana, or Roman Peace. This would be the longest period of relative peace the world had seen. Rome would be ruled by a number of dynasties, the most important being the Julio-Claudian, Flavian, Nerva-Antonine, and the Severan, alongside smaller dynasties like the Constantinian, Valentinian and Theodosian. During this period, Rome would solidify it's territorial holdings to encase the entire Mediterranean sea, turning it into a 'Roman lake'. Outside the borders of the Empire, life was much harder and peace was never a guarantee. Disaster was looming on the horizon and the Empire would be put to the test.",
+      "likes": 0
+    },
+    {
+      "id": 4,
+      "name": "Crisis of the 3rd Century",
+      "image": "images/crisis-3rd.jpg",
+      "info": "The crisis of the 3rd century would come to define a time in Roman history that perplexes historians to no end. By all accounts the Roman Empire should have crumbled and collapsed, but somehow it didn't. Historians still argue over the myriad of reasons that may be responsible for the survival of the Empire during this peroid, one thing is certain however, the Empire survived. The crisis of the 3rd century spanned for 49 years and the Empire saw the combined pressures of barbarian invasions and migrations into the Roman territory, civil wars, peasant rebellions and political instability, with multiple usurpers competing for power. By 268 the Roman Empire had split into 3 Empires, the Gallic Empire which consisted of the Roman provinces of Gaul and Britannia, the Palmyrene Empire which was made up of Syria and Egypt, and the remainder of the Roman Empire which controlled Italy, North Africa, Hispania (Spain), and Greece. During this period, Roman soldiers and generals alike had gotten into the practice of crowning their own Emperors and claiming the Imperial throne by force or bribery. There were at least 30 Emperors during this 49 year period, many of them ruling for a few months before being deposed and often murdered. The Antonine Plague, widely believed today to have been smallpox, swept across the Empire, the estimated death toll is between 5-10 million dead. Finally towards the end of the century an Emperor named Aurelian rose to power, he was able to reunify the Empire into one political body and fend off the waves of attacking Germanic tribes bringing stability back to the Empire and saving it from being destroyed. Aurelian was murdered on his way to a campaign in Persia, a long time rival to Rome, by one of his administrators because he lied to the Emperor and feared Aurelian's punishment. A short while came Emperor Diocletian who changed the Empire forever by establishing a system called the Tetrarchy. The Tetrarchy split the Empire into four administrative bodies under the same political body. Diocletian built a system where each half of the Empire would have two Emperors, a senior Emperor and a junior Emperor, with each of the four Emperors controlling a region. ",
+      "likes": 0
+    },
+    {
+      "id": 5,
+      "name": "East and West",
+      "image": "images/roman-east-west.png",
+      "info": "",
+      "likes": 0
+    },
+    {
+      "id": 6,
+      "name": "The Fall of the West",
+      "image": "",
+      "info": "put info here",
+      "likes": 0
+    },
+    {
+      "id": 7,
+      "name": "Reconquest of the West",
+      "image": "",
+      "info": "put info here",
+      "likes": 0
+    },
+    {
+      "id": 8,
+      "name": "The death of the Empire",
+      "image": "",
+      "info": "put info here",
+      "likes": 0
+    }
+  ]
+}
