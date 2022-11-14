@@ -5,7 +5,13 @@ const select = document.getElementById('event-dropdown')
 
 const container = document.getElementById('event-lists')
 
+const submit = document.querySelector('form')
+
+const commentList = document.querySelectorAll('.comments')
+
 let mapObjects
+
+submit.addEventListener('submit', (e) => addComment(e))
 
     function getMaps(){
         fetch('http://localhost:3000/maps')
@@ -18,9 +24,7 @@ let mapObjects
     getMaps()
 
     select.addEventListener('change', () => {
-
         const selectedId = parseInt(select.value)
-
         mapObjects.find((mapObject) => {
             if(mapObject.id === selectedId){
                 buildCard(mapObject)
@@ -29,6 +33,7 @@ let mapObjects
     }) 
 
     function buildCard(element){
+
         let img = document.createElement('img')
         img.setAttribute('src',element.image)
         img.className = 'map-avatar'
@@ -46,9 +51,8 @@ let mapObjects
         p.innerText = element.info
 
         let p2 = document.createElement('p')
-        p2.innerText = `${element.likes}`
-
-
+        p2.innerText = `${element.likes} likes`
+        
         let card = document.createElement('div')
         card.setAttribute('class','card')
         card.height = 300
@@ -59,7 +63,7 @@ let mapObjects
     }           
    
 
-    function likes (event) {
+    function likes(event) {
         let more = parseInt(event.target.previousElementSibling.innerText) + 1
       fetch(`http://localhost:3000/maps/${event.target.id}`, { 
           method: 'PATCH',
@@ -68,7 +72,7 @@ let mapObjects
             'Accept': 'application/json'
           },
           body: JSON.stringify({
-            'likes': 0
+            'likes': more
           })
         })  
         .then(response => response.json())
@@ -76,6 +80,13 @@ let mapObjects
           event.target.previousElementSibling.innerText= `${more} likes`
         })
       }
-    
+
+      function addComment(e) {
+        e.preventDefault()
+        const newComment = document.createElement('li')
+        newComment.textContent = e.target['comment-input'].value
+        commentList[0].appendChild(newComment)
+        submit.reset()
+        }
 })
 
