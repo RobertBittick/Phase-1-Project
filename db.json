@@ -38,15 +38,15 @@
     {
       "id": 6,
       "name": "The Fall of the West",
-      "image": "",
-      "info": "put info here",
+      "image": "images/fall-of-west.png",
+      "info": "In 401 AD, a german king by the name of Alaric I of the Visigoths would march into Italy. Alaric had been a soldier in the Roman Army, and after helping the Romans to defeat other Germanic tribes as they tried to invade the Empire would receive almost no recognition for his efforts. He would then be crowned king by his tribe and would march into Roman territory seeking Roman legitimacy. Alaric would sack the city of Rome multiple times over the years, unable to reach the Western Imperial capital, which had moved to the city of Ravenna. Alaric would die shortly after his last sacking of Rome from illness. His army would move into a region of modern day France, with the approval of the Western Emperor in exchange for peace, and set up an independent kingdom within the Empires borders. Meanwhile the Eastern half of the Empire was dealing with attacks from the Huns, who had migrated from Central Asia and settled in Europe. The arrival of the Huns displaced many Germanic tribes who chose to fight the Romans, who they were familar with and knew how to fight, in an attempt to find new lands to live on and rule. The Western Empire, faced with invasions, forced migrations, displacement of Roman citizens, and political and social unrest, began to lose control over their lands as more Germanic tribes carved out chunks of rich Roman territory for themselves. Soon, Germanic tribes would invade Italy, dipose the Emperor and install their own puppet Emperors. The Eastern Empire refused to recognize these puppet Emperors as legitimate, however but they lacked the ability to do anything about it as the Persians in the east were ready to attack at any moment. In the year 476 AD, a statesman of Germanic heritage by the name of Odoacer diposed the last Roman Emperor of the West. Odoacer sent the Imperial robes to Constantinople as a symbol that the West was no longer ruled by and Emperor. This event is now considered to be the end of the Roman Empire in the West and the end of the ancient period. Odoacer established himself as King of Italy, however he remained in the service of the Eastern Roman Emperor, ruling Italy as a king but under the authority of the Roman Emperor in Constantinople. Life in Italy would not change much, and this new Kingdom of Italy would still be considered as Roman territory and it people, Roman citizens. The rest of the Roman provinces in western Europe would be slowly wittled away until only Italy and the Balkans remained under the control of Rome. The west would never recover, but the Roman legacy would live on and inspire great and terrible men for another 1500 years.",
       "likes": 1
     },
     {
       "id": 7,
       "name": "Reconquest of the West",
-      "image": "",
-      "info": "put info here",
+      "image": "images/reconquest.png",
+      "info": "With the West almost completely lost, with the exception of Italy and the Balkans, to powerful Germanic Kings the East continued to on. The East had it's own problems to deal with, a powerful Persia ruled by Sassanid Dynasty. What remained of the Roman Empire was the rich, mostly Greek, east. Western European historians would refer to the Roman Empire at this time as the Byzantine Empire, however the Byzantine Empire was the direct continuation of the Roman Empire and was referred to as such until 1557, 104 years after the fall of Constantinople to the Ottoman Turks. During the year 527 a new Emperor took the Roman throne, Justinian I. Justinian would become remembered for his reconquest of lost Roman territory in the west in an attempt to restore Rome to it's former power.    ",
       "likes": 7
     },
     {
