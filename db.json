@@ -5,7 +5,7 @@
       "name": "The Kingdom of Rome",
       "image": "images/kingdom-of-rome.jpg",
       "info": "The mythical founding of Rome states that the city was founded by one of two brothers, Romulus, who along with his brother Remus were nursed by a she-wolf after washing up on the banks of the the river Tiber, where the city would be founded. Roman mythology claims the Romans were descendants of the Aeneas people who fled to Italy after the fall of Troy. In reality Rome was likely founded due to its strategic position as a river crossing on the Tiber, connecting the Etruscan city states in the north to the Latin tribes and the wealthy Greek city states to the south. The Roman city state was ruled by kings from 753 BC to 509 BC. The Kingdom of Rome was ruled by a single monarch, advised by a senate of 300 of the most noble and wealthiest men of the city. The senate held little power and served mostly as an advisory council to the king. The traditional story states that the Roman monarchy was overthrown after a series of tyranical kings, resulting in the establishment of the Republic. The Romans developed a fierce hatred for kings and absolute monarchs of any kind.",
-      "likes": 9
+      "likes": 10
     },
     {
       "id": 2,
@@ -33,7 +33,7 @@
       "name": "East and West",
       "image": "images/roman-east-west.png",
       "info": "",
-      "likes": 0
+      "likes": 1
     },
     {
       "id": 6,
