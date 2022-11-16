@@ -29,8 +29,8 @@ document.addEventListener("DOMContentLoaded", () => {
   function buildCard(element){
 
     let img = document.createElement('img')
-    img.setAttribute('src',element.image)
-    img.className = 'map-avatar'
+    img.setAttribute('src', element.image)
+    img.className = 'enlarge-onhover'
 
     let button = document.createElement('button')
     button.innerText = 'Like ❤️'
@@ -49,11 +49,10 @@ document.addEventListener("DOMContentLoaded", () => {
         
     let card = document.createElement('div')
     card.setAttribute('class','card')
-    card.height = 300
-    card.width = 600
     card.append(img,h2,p,p2,button)
 
     container.append(card) 
+    
   }           
    
 

@@ -1,3 +1,5 @@
+
+
 #head {
     display: inline-block;
     justify-content: center;
@@ -7,6 +9,7 @@
     padding: 12px 12px;
     background-color: rgba(255, 248, 169, 0.664);
     border-radius: 12px;
+    
 }
 
 #head-image {
@@ -40,11 +43,12 @@
     box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.575);
     transition: 0.3s;
     border-radius: 12px;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 .card img {
-    height: 275px;
-    width: auto;
+    max-height: 400px;
     padding: 10px;
     float: left;
 }
@@ -83,4 +87,14 @@
     padding: 12px 12px;
     margin-left: 10%;
     margin-right: 10%;
+}
+
+.enlarge-onhover {
+    max-height: 275px;
+}
+
+.enlarge-onhover:hover {
+    height: 600px;
+    width: auto;
+
 }
